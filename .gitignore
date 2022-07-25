@@ -10,6 +10,7 @@ __pycache__/
 .DS_Store
 
 # files
+crypto_data.csv
 
 # Distribution / packaging
 .Python
