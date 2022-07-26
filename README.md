@@ -1,4 +1,3 @@
 # Cryptocurrencies and Unsupervised Machine Learning
 
-![coin]()
-Unsupervised Machine Learning and crypto
+![coin](https://github.com/conorwhanson/Cryptocurrencies/blob/main/resources/coin1.png)
