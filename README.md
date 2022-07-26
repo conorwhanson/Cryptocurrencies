@@ -11,5 +11,7 @@ The crypto dataset was loaded in as a csv file, preprocessed and cleaned, and fi
 
 Once this work was done a 3D visualization and scatter plot of the PCA model and clusters were created.
 
+![3D_clusters](https://github.com/conorwhanson/Cryptocurrencies/blob/main/resources/PCA_cluster_3d.png)
+
 ## Findings & Recommendations
 
