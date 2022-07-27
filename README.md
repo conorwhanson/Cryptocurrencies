@@ -15,3 +15,10 @@ Once this work was done a 3D visualization and scatter plot of the PCA model and
 
 ## Findings & Recommendations
 
+There were some interesting results from the K-means clustering and PCA dimensionality reduction. 
+
+- Classes 2 and 0 were most populated, with 286 and and 239 respectively. Class 0 contained many popular or well-known coins such as Bitcoin and Ethereum. Class 2 seemed to have similar Proof Types.
+
+- Class 1 had a single coin in it: BitTorrent. This was a massive outlier when visualized. I'd recommend further research on this to see if there is something special about BitTorrent (or what's causing it to exist in a lone class).
+
+- Running an explained variance shows that the 3 principal components accounted for only **7%** of the variance. This is very low and points to there being not much relationship in the features data. Either more features need to be gathered or more data is needed, or a recognition that this crypto data ust simply does not contain meaningful relationships.
